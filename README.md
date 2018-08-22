@@ -12,23 +12,23 @@ With the lockout time dropped down to 2ms I *still* couldn't get it to bounce so
 
 Serial output:
 
-> 1/1: Button pressed
-> 2/11: Button pressed
-> 3/17: Button pressed
-> 4/89: Button pressed
-> 5/91: Button pressed
-> 6/94: Button pressed
-> 7/100: Button pressed
-> 8/102: Button pressed
-> 9/121: Button pressed
-> 10/131: Button pressed
-> 11/139: Button pressed
-> 12/141: Button pressed
-> 13/157: Button pressed
-> 14/201: Button pressed
-> 15/213: Button pressed
-> 16/216: Button pressed
-> 17/227: Button pressed
-> 18/237: Button pressed
-> 19/245: Button pressed
+> 1/1: Button pressed<br>
+> 2/11: Button pressed<br>
+> 3/17: Button pressed<br>
+> 4/89: Button pressed<br>
+> 5/91: Button pressed<br>
+> 6/94: Button pressed<br>
+> 7/100: Button pressed<br>
+> 8/102: Button pressed<br>
+> 9/121: Button pressed<br>
+> 10/131: Button pressed<br>
+> 11/139: Button pressed<br>
+> 12/141: Button pressed<br>
+> 13/157: Button pressed<br>
+> 14/201: Button pressed<br>
+> 15/213: Button pressed<br>
+> 16/216: Button pressed<br>
+> 17/227: Button pressed<br>
+> 18/237: Button pressed<br>
+> 19/245: Button pressed<br>
 
