@@ -15,7 +15,7 @@ static const unsigned long LOCKOUT_DELAY_MILLIS = 2;
 // True if the button has been pressed but not actioned
 volatile bool gButtonStateChangeToAction = false;
 // The debounced button state
-uint8_t gButtonState = 0;
+uint8_t gButtonState = LOW;
 
 // The number of button interrupts received
 uint16_t gButtonInterrupts = 0;
